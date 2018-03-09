@@ -5,6 +5,7 @@ public class Mater {
 		System.out.println("===");
 		System.out.println("=====");
 		String string = new String();
+		String s = new String();
 	}
 	
 }
